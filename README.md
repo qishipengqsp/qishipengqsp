@@ -1,8 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-### Shipeng Qi
-
-[LinkedIn](https://www.linkedin.com/in/qishipeng/)
+### Timeline
 
 * [TuGraph](https://github.com/TuGraph-family/tugraph-db): TuGraph contributor and developer relations advocate (2023–)
 * [Linked Data Benchmark Council](https://github.com/ldbc/): Steering committee member (2023–)
@@ -17,6 +15,8 @@
 
 
 <!--
+[LinkedIn](https://www.linkedin.com/in/qishipeng/)
+
 **qishipengqsp/qishipengqsp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
