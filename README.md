@@ -12,6 +12,9 @@
 <p align="center">
     <img id="preview" src="https://github-readme-stats.vercel.app/api?username=qishipengqsp&show_icons=true&theme=vue&hide=stars">
 </p>
+<p align="center">
+    <img id="visitor_count" src="https://profile-counter.glitch.me/qishipengqsp/count.svg">
+</p>
 
 
 <!--
