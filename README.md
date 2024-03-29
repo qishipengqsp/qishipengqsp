@@ -3,7 +3,7 @@
 ### Timeline
 
 * [TuGraph](https://github.com/TuGraph-family/tugraph-db): TuGraph contributor and developer relations advocate (2022–)
-* [Linked Data Benchmark Council](https://github.com/ldbc/): Steering committee member (2023–)
+* [Linked Data Benchmark Council](https://github.com/ldbc/): LDBC Board Director (2023–)
 * [LDBC Financial Benchmark](https://github.com/ldbc/ldbc_finbench_docs): benchmark contributor and task force lead (2022–)
 * [TuGraph](https://www.tugraph.org/): TuGraph developer (2021–)
 * Running a startup building an AI platform for business. (2017–2021)
